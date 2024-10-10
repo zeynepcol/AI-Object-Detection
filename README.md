@@ -3,7 +3,7 @@
 
 ![object_detection_ai_demo2](https://github.com/user-attachments/assets/ec07ab40-b342-4af7-adc9-c96a15d3f2fb)
 
-<h3 align="left">Object Detection AI with ml5.js and COCO-SSD</h3>
+<h1 align="left">Object Detection AI with ml5.js and COCO-SSD</h1>
 
 
 
