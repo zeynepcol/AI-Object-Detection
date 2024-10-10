@@ -3,12 +3,15 @@
 
 ![object_detection_ai_demo2](https://github.com/user-attachments/assets/ec07ab40-b342-4af7-adc9-c96a15d3f2fb)
 
-**Object Detection AI with ml5.js and COCO-SSD**
+<h3 align="left">Object Detection AI with ml5.js and COCO-SSD</h3>
+
+
 
 This JavaScript code creates a web application for object detection, utilizing the **ml5.js library** to identify objects in real-time from the video stream. **ml5.js** provides a simple API to run machine learning models directly in the browser, and the project uses the **COCO-SSD (Convolutional Object Classifier)** model for object detection.
 
 
-**FEATURES**
+<h3 align="left">FEATURES</h3>
+
 
 **1. CAMERA ACCESS & VIDEO STREAM**
 
@@ -44,7 +47,8 @@ This function detects objects in each frame of the video feed and returns them i
 
 
 
-**LIBRARIES USED**
+<h3 align="left">LIBRARIES USED</h3>
+
 
 **ml5.js** : This library enables object detection in the browser using machine learning models, including the COCO-SSD model.
 
