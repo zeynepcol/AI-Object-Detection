@@ -1,8 +1,3 @@
-![object_detection_ai_demo1](https://github.com/user-attachments/assets/aad64ab0-a7ee-497a-b591-feb5fe1a2ac8)
-
-
-![object_detection_ai_demo2](https://github.com/user-attachments/assets/354cd2cb-1671-4c98-aa55-8b9762736435)
-
 
 **Object Detection AI with ml5.js and COCO-SSD**
 
