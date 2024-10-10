@@ -35,7 +35,7 @@ Users can toggle AI detection on or off via a switch button. When enabled, the o
 Users can adjust the FPS (frames per second) using a range input. The changeFps() function updates the FPS based on the user's selection, allowing more or fewer frames to be processed per second.
 
 
-**5. OBJECT DETECTION & RENDERING **
+**5. OBJECT DETECTION & RENDERING**
 
 ![object_detection_ai2](https://github.com/user-attachments/assets/e0d7dec2-0c46-44fe-a346-53c70639c0ed)
 
