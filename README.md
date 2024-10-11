@@ -10,6 +10,7 @@
 This JavaScript code creates a web application for object detection, utilizing the **ml5.js library** to identify objects in real-time from the video stream. **ml5.js** provides a simple API to run machine learning models directly in the browser, and the project uses the **COCO-SSD (Convolutional Object Classifier)** model for object detection.
 
 
+
 <h3 align="left">FEATURES</h3>
 
 
