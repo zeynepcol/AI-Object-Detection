@@ -11,6 +11,7 @@ This JavaScript code creates a web application for object detection, utilizing t
 **1. CAMERA ACCESS & VIDEO STREAM**
 
 
+
 The application uses the navigator.mediaDevices.getUserMedia(constraints) function to access the user's camera and streams the video to an HTML video element. The camera can be set to use the back camera (e.g., on mobile devices) by specifying the facingMode: "environment" option.
 
 **2. LOADING THE MODAL**
