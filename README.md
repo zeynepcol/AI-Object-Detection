@@ -48,4 +48,3 @@ This function detects objects in each frame of the video feed and returns them i
 **ml5.js** : This library enables object detection in the browser using machine learning models, including the COCO-SSD model.
 
 **COCO-SSD Model** :A pre-trained object detection model capable of recognizing around 80 object classes.
-
